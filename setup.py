@@ -16,6 +16,6 @@ setup(
     packages=['cloudify_plugin'],
 
     install_requires=[
-        "cloudify-plugins-common>=4.0a4"
+        "cloudify-plugins-common==3.1"
     ]
 )
